@@ -1,8 +1,10 @@
-# Hi 👋 I'm Arya Bisen
+<h1 align="center">Hi 👋, I'm Arya Bisen</h1>
 
-## 📊 Aspiring Data Analyst | MCA Graduate
-🎯 Passionate about turning raw data into actionable business insights.
+<h3 align="center">📊 Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
+<p align="center">
+Passionate about turning raw data into actionable business insights.
+</p>
 ---
 
 ## 👩‍💻 About Me
