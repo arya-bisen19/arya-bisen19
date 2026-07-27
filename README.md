@@ -1,7 +1,6 @@
 # Hi 👋 I'm Arya Bisen
 
-## 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python
-
+## 📊 Aspiring Data Analyst | MCA Graduate
 🎯 Passionate about turning raw data into actionable business insights.
 
 ---
@@ -16,18 +15,16 @@
 - 📈 Passionate about Data Visualization and Business Intelligence
 - 🚀 Open to Data Analyst Internships and Full-Time Opportunities
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
-
-- 📊 Data Analysis: Excel, SQL
-- 📈 Data Visualization: Power BI, Tableau
-- 🐍 Programming: Python
-- 🧹 Data Cleaning & Transformation
-- 📊 Dashboard Development
-- 🌐 Version Control: Git & GitHub
-
----
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 ## 🚀 Featured Projects
 
 📈 Stock Market Dashboard || Power Bi
