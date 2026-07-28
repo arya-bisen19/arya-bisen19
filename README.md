@@ -78,7 +78,7 @@ Passionate about turning raw data into actionable business insights.
 
 ## 📫 Connect with Me
 
-🔗 LinkedIn: linkedin.com/in/arya-bisen-5881b1384
+🔗 LinkedIn: https://www.linkedin.com/in/arya-bisen-5881b1384
 
 📧 Email: aryabisen19@gmail.com
 
