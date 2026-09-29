@@ -52,6 +52,10 @@ Passionate about turning raw data into actionable business insights.
   
 ## 🚀 Featured Projects
 
+🏦 Bank Analysis || Excel || Power Bi || Sql || Tableau
+
+💳 Credit & Debit Analysis || Excel || Power Bi || Sql || Tableau
+
 📈 Stock Market Dashboard || Power Bi
 
 🏠 Airbnb Analysis Dashboard || Power Bi
@@ -65,6 +69,8 @@ Passionate about turning raw data into actionable business insights.
 ## 🏆 Certifications
 
 🎓 Data Analyst Program || Excelr
+
+📜 NASSCOM Certification – Data Analyst || FutureSkills Prime
 
 📊 Complete Data Analyst Bootcamp: From Basics to Advanced || Udemy
 
